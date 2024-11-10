@@ -7,3 +7,8 @@ Install required packages:
 ```bash
 pip install -r requirements.txt
 ````
+## The *src* folder contains the following files:
+
+- data (folder)
+- emotion_recognition.py (file)
+- haarcascade_frontalface_default.xml (file)
